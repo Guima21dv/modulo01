@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\bin\Debug\netcoreapp2.1\mod01_exe10.deps.json
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\bin\Debug\netcoreapp2.1\mod01_exe10.runtimeconfig.json
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\bin\Debug\netcoreapp2.1\mod01_exe10.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\bin\Debug\netcoreapp2.1\mod01_exe10.dll
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\bin\Debug\netcoreapp2.1\mod01_exe10.pdb
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\obj\Debug\netcoreapp2.1\mod01_exe10.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\obj\Debug\netcoreapp2.1\mod01_exe10.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\obj\Debug\netcoreapp2.1\mod01_exe10.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\obj\Debug\netcoreapp2.1\mod01_exe10.AssemblyInfo.cs
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\obj\Debug\netcoreapp2.1\mod01_exe10.dll
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe10\obj\Debug\netcoreapp2.1\mod01_exe10.pdb

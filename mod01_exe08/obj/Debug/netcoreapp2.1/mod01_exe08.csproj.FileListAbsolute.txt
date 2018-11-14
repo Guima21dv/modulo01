@@ -1,0 +1,11 @@
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\bin\Debug\netcoreapp2.1\mod01_exe08.deps.json
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\bin\Debug\netcoreapp2.1\mod01_exe08.runtimeconfig.json
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\bin\Debug\netcoreapp2.1\mod01_exe08.runtimeconfig.dev.json
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\bin\Debug\netcoreapp2.1\mod01_exe08.dll
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\bin\Debug\netcoreapp2.1\mod01_exe08.pdb
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\obj\Debug\netcoreapp2.1\mod01_exe08.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\obj\Debug\netcoreapp2.1\mod01_exe08.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\obj\Debug\netcoreapp2.1\mod01_exe08.AssemblyInfoInputs.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\obj\Debug\netcoreapp2.1\mod01_exe08.AssemblyInfo.cs
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\obj\Debug\netcoreapp2.1\mod01_exe08.dll
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe08\obj\Debug\netcoreapp2.1\mod01_exe08.pdb

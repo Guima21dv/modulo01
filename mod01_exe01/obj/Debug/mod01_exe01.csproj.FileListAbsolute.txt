@@ -1,0 +1,7 @@
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\obj\Debug\mod01_exe01.csprojAssemblyReference.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\obj\Debug\mod01_exe01.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\bin\Debug\mod01_exe01.exe.config
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\bin\Debug\mod01_exe01.exe
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\bin\Debug\mod01_exe01.pdb
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\obj\Debug\mod01_exe01.exe
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe01\obj\Debug\mod01_exe01.pdb

@@ -1,0 +1,6 @@
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe02\bin\Debug\mod01_exe02.exe.config
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe02\bin\Debug\mod01_exe02.exe
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe02\bin\Debug\mod01_exe02.pdb
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe02\obj\Debug\mod01_exe02.csproj.CoreCompileInputs.cache
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe02\obj\Debug\mod01_exe02.exe
+C:\Users\gguima\source\repos\mod01_exe\mod01_exe02\obj\Debug\mod01_exe02.pdb
